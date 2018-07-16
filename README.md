@@ -1,3 +1,3 @@
-# SpringBootJerseyJboss
+# How To Configure Spring Boot Jersey and Swagger
 
-<h1>http://frugalisminds.com/spring/spring-boot-jersey-example/</h1>
+<h1>http://frugalisminds.com/spring-boot/configure-swagger-with-jersey-and-spring-boot//</h1>

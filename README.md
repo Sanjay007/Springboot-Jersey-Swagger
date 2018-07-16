@@ -17,4 +17,4 @@ We must Have Spring Boot Starter Web as a dependency for Swagger UI to Work Prop
 # Blog Link
 <h1>http://frugalisminds.com/spring-boot/configure-swagger-with-jersey-and-spring-boot//</h1>
 
-http://frugalisminds.com/wp-content/uploads/2018/07/swagger-768x304.png
+![swagger-ui](http://frugalisminds.com/wp-content/uploads/2018/07/swagger-768x304.png "Swagger UI")
